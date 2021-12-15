@@ -1,0 +1,8 @@
+﻿  01C++基础.cpp
+C:\Users\dihuge\Desktop\C++\C++基础\C++\01C++基础.cpp(38,18): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\dihuge\Desktop\C++\C++基础\C++\01C++基础.cpp(151,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  02指针.cpp
+  03结构体.cpp
+  swap.cpp
+  正在生成代码...
+  C++.vcxproj -> C:\Users\dihuge\Desktop\C++\C++基础\x64\Debug\C++.exe
